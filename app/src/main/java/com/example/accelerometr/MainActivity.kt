@@ -27,7 +27,6 @@ class MainActivity : AppCompatActivity() {
                 tvSensor.text = sData
 
             }
-
             override fun onAccuracyChanged(p0: Sensor?, p1: Int) {
 
             }
